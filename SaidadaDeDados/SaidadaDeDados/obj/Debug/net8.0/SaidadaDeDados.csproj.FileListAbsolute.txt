@@ -1,0 +1,14 @@
+C:\Users\sprou\source\repos\SaidadaDeDados\SaidadaDeDados\obj\Debug\net8.0\SaidadaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sprou\source\repos\SaidadaDeDados\SaidadaDeDados\obj\Debug\net8.0\SaidadaDeDados.AssemblyInfoInputs.cache
+C:\Users\sprou\source\repos\SaidadaDeDados\SaidadaDeDados\obj\Debug\net8.0\SaidadaDeDados.AssemblyInfo.cs
+C:\Users\sprou\source\repos\SaidadaDeDados\SaidadaDeDados\obj\Debug\net8.0\SaidadaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\sprou\source\repos\SaidadaDeDados\SaidadaDeDados\bin\Debug\net8.0\SaidadaDeDados.exe
+C:\Users\sprou\source\repos\SaidadaDeDados\SaidadaDeDados\bin\Debug\net8.0\SaidadaDeDados.deps.json
+C:\Users\sprou\source\repos\SaidadaDeDados\SaidadaDeDados\bin\Debug\net8.0\SaidadaDeDados.runtimeconfig.json
+C:\Users\sprou\source\repos\SaidadaDeDados\SaidadaDeDados\bin\Debug\net8.0\SaidadaDeDados.dll
+C:\Users\sprou\source\repos\SaidadaDeDados\SaidadaDeDados\bin\Debug\net8.0\SaidadaDeDados.pdb
+C:\Users\sprou\source\repos\SaidadaDeDados\SaidadaDeDados\obj\Debug\net8.0\SaidadaDeDados.dll
+C:\Users\sprou\source\repos\SaidadaDeDados\SaidadaDeDados\obj\Debug\net8.0\refint\SaidadaDeDados.dll
+C:\Users\sprou\source\repos\SaidadaDeDados\SaidadaDeDados\obj\Debug\net8.0\SaidadaDeDados.pdb
+C:\Users\sprou\source\repos\SaidadaDeDados\SaidadaDeDados\obj\Debug\net8.0\SaidadaDeDados.genruntimeconfig.cache
+C:\Users\sprou\source\repos\SaidadaDeDados\SaidadaDeDados\obj\Debug\net8.0\ref\SaidadaDeDados.dll

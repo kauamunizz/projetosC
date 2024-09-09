@@ -1,0 +1,14 @@
+C:\Users\sprou\source\repos\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sprou\source\repos\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\sprou\source\repos\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.AssemblyInfo.cs
+C:\Users\sprou\source\repos\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\sprou\source\repos\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.exe
+C:\Users\sprou\source\repos\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.deps.json
+C:\Users\sprou\source\repos\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.runtimeconfig.json
+C:\Users\sprou\source\repos\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.dll
+C:\Users\sprou\source\repos\ExercicioFixacao\ExercicioFixacao\bin\Debug\net8.0\ExercicioFixacao.pdb
+C:\Users\sprou\source\repos\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.dll
+C:\Users\sprou\source\repos\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\refint\ExercicioFixacao.dll
+C:\Users\sprou\source\repos\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.pdb
+C:\Users\sprou\source\repos\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ExercicioFixacao.genruntimeconfig.cache
+C:\Users\sprou\source\repos\ExercicioFixacao\ExercicioFixacao\obj\Debug\net8.0\ref\ExercicioFixacao.dll
