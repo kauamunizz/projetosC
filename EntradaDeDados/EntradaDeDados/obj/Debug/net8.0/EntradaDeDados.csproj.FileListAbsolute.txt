@@ -1,0 +1,14 @@
+F:\projetos C#\EntradaDeDados\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.exe
+F:\projetos C#\EntradaDeDados\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.deps.json
+F:\projetos C#\EntradaDeDados\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.runtimeconfig.json
+F:\projetos C#\EntradaDeDados\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.dll
+F:\projetos C#\EntradaDeDados\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.pdb
+F:\projetos C#\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos C#\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.AssemblyInfoInputs.cache
+F:\projetos C#\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.AssemblyInfo.cs
+F:\projetos C#\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.csproj.CoreCompileInputs.cache
+F:\projetos C#\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.dll
+F:\projetos C#\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\refint\EntradaDeDados.dll
+F:\projetos C#\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.pdb
+F:\projetos C#\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.genruntimeconfig.cache
+F:\projetos C#\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\ref\EntradaDeDados.dll

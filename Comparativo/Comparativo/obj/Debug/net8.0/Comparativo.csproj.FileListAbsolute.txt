@@ -1,0 +1,15 @@
+F:\projetos C#\projetosC\Comparativo\Comparativo\bin\Debug\net8.0\Comparativo.exe
+F:\projetos C#\projetosC\Comparativo\Comparativo\bin\Debug\net8.0\Comparativo.deps.json
+F:\projetos C#\projetosC\Comparativo\Comparativo\bin\Debug\net8.0\Comparativo.runtimeconfig.json
+F:\projetos C#\projetosC\Comparativo\Comparativo\bin\Debug\net8.0\Comparativo.dll
+F:\projetos C#\projetosC\Comparativo\Comparativo\bin\Debug\net8.0\Comparativo.pdb
+F:\projetos C#\projetosC\Comparativo\Comparativo\obj\Debug\net8.0\Comparativo.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos C#\projetosC\Comparativo\Comparativo\obj\Debug\net8.0\Comparativo.AssemblyInfoInputs.cache
+F:\projetos C#\projetosC\Comparativo\Comparativo\obj\Debug\net8.0\Comparativo.AssemblyInfo.cs
+F:\projetos C#\projetosC\Comparativo\Comparativo\obj\Debug\net8.0\Comparativo.csproj.CoreCompileInputs.cache
+F:\projetos C#\projetosC\Comparativo\Comparativo\obj\Debug\net8.0\Comparativo.sourcelink.json
+F:\projetos C#\projetosC\Comparativo\Comparativo\obj\Debug\net8.0\Comparativo.dll
+F:\projetos C#\projetosC\Comparativo\Comparativo\obj\Debug\net8.0\refint\Comparativo.dll
+F:\projetos C#\projetosC\Comparativo\Comparativo\obj\Debug\net8.0\Comparativo.pdb
+F:\projetos C#\projetosC\Comparativo\Comparativo\obj\Debug\net8.0\Comparativo.genruntimeconfig.cache
+F:\projetos C#\projetosC\Comparativo\Comparativo\obj\Debug\net8.0\ref\Comparativo.dll

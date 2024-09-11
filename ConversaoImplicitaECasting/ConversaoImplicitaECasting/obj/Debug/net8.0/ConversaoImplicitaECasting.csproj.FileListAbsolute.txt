@@ -1,0 +1,14 @@
+F:\projetos C#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net8.0\ConversaoImplicitaECasting.exe
+F:\projetos C#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net8.0\ConversaoImplicitaECasting.deps.json
+F:\projetos C#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net8.0\ConversaoImplicitaECasting.runtimeconfig.json
+F:\projetos C#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net8.0\ConversaoImplicitaECasting.dll
+F:\projetos C#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net8.0\ConversaoImplicitaECasting.pdb
+F:\projetos C#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net8.0\ConversaoImplicitaECasting.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos C#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net8.0\ConversaoImplicitaECasting.AssemblyInfoInputs.cache
+F:\projetos C#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net8.0\ConversaoImplicitaECasting.AssemblyInfo.cs
+F:\projetos C#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net8.0\ConversaoImplicitaECasting.csproj.CoreCompileInputs.cache
+F:\projetos C#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net8.0\ConversaoImplicitaECasting.dll
+F:\projetos C#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net8.0\refint\ConversaoImplicitaECasting.dll
+F:\projetos C#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net8.0\ConversaoImplicitaECasting.pdb
+F:\projetos C#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net8.0\ConversaoImplicitaECasting.genruntimeconfig.cache
+F:\projetos C#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net8.0\ref\ConversaoImplicitaECasting.dll

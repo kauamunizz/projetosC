@@ -1,0 +1,14 @@
+F:\projetos C#\Operadores\Operadores\bin\Debug\net8.0\Operadores.exe
+F:\projetos C#\Operadores\Operadores\bin\Debug\net8.0\Operadores.deps.json
+F:\projetos C#\Operadores\Operadores\bin\Debug\net8.0\Operadores.runtimeconfig.json
+F:\projetos C#\Operadores\Operadores\bin\Debug\net8.0\Operadores.dll
+F:\projetos C#\Operadores\Operadores\bin\Debug\net8.0\Operadores.pdb
+F:\projetos C#\Operadores\Operadores\obj\Debug\net8.0\Operadores.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos C#\Operadores\Operadores\obj\Debug\net8.0\Operadores.AssemblyInfoInputs.cache
+F:\projetos C#\Operadores\Operadores\obj\Debug\net8.0\Operadores.AssemblyInfo.cs
+F:\projetos C#\Operadores\Operadores\obj\Debug\net8.0\Operadores.csproj.CoreCompileInputs.cache
+F:\projetos C#\Operadores\Operadores\obj\Debug\net8.0\Operadores.dll
+F:\projetos C#\Operadores\Operadores\obj\Debug\net8.0\refint\Operadores.dll
+F:\projetos C#\Operadores\Operadores\obj\Debug\net8.0\Operadores.pdb
+F:\projetos C#\Operadores\Operadores\obj\Debug\net8.0\Operadores.genruntimeconfig.cache
+F:\projetos C#\Operadores\Operadores\obj\Debug\net8.0\ref\Operadores.dll
