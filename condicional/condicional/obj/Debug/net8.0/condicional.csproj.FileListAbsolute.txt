@@ -1,0 +1,15 @@
+F:\projetos C#\projetosC\condicional\condicional\bin\Debug\net8.0\condicional.exe
+F:\projetos C#\projetosC\condicional\condicional\bin\Debug\net8.0\condicional.deps.json
+F:\projetos C#\projetosC\condicional\condicional\bin\Debug\net8.0\condicional.runtimeconfig.json
+F:\projetos C#\projetosC\condicional\condicional\bin\Debug\net8.0\condicional.dll
+F:\projetos C#\projetosC\condicional\condicional\bin\Debug\net8.0\condicional.pdb
+F:\projetos C#\projetosC\condicional\condicional\obj\Debug\net8.0\condicional.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos C#\projetosC\condicional\condicional\obj\Debug\net8.0\condicional.AssemblyInfoInputs.cache
+F:\projetos C#\projetosC\condicional\condicional\obj\Debug\net8.0\condicional.AssemblyInfo.cs
+F:\projetos C#\projetosC\condicional\condicional\obj\Debug\net8.0\condicional.csproj.CoreCompileInputs.cache
+F:\projetos C#\projetosC\condicional\condicional\obj\Debug\net8.0\condicional.sourcelink.json
+F:\projetos C#\projetosC\condicional\condicional\obj\Debug\net8.0\condicional.dll
+F:\projetos C#\projetosC\condicional\condicional\obj\Debug\net8.0\refint\condicional.dll
+F:\projetos C#\projetosC\condicional\condicional\obj\Debug\net8.0\condicional.pdb
+F:\projetos C#\projetosC\condicional\condicional\obj\Debug\net8.0\condicional.genruntimeconfig.cache
+F:\projetos C#\projetosC\condicional\condicional\obj\Debug\net8.0\ref\condicional.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\projetos C#\\projetosC\\funcoes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02B72941-1C00-433A-90AE-F992A7D0DD6C}|funcoes\\funcoes.csproj|f:\\projetos c#\\projetosc\\funcoes\\funcoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B72941-1C00-433A-90AE-F992A7D0DD6C}|funcoes\\funcoes.csproj|solutionrelative:funcoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\projetos C#\\projetosC\\funcoes\\funcoes\\Program.cs",
+              "RelativeDocumentMoniker": "funcoes\\Program.cs",
+              "ToolTip": "F:\\projetos C#\\projetosC\\funcoes\\funcoes\\Program.cs",
+              "RelativeToolTip": "funcoes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T01:06:17.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
