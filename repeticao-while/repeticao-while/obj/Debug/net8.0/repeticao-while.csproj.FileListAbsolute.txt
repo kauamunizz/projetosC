@@ -1,0 +1,15 @@
+F:\projetos C#\projetosC\repeticao-while\repeticao-while\bin\Debug\net8.0\repeticao-while.exe
+F:\projetos C#\projetosC\repeticao-while\repeticao-while\bin\Debug\net8.0\repeticao-while.deps.json
+F:\projetos C#\projetosC\repeticao-while\repeticao-while\bin\Debug\net8.0\repeticao-while.runtimeconfig.json
+F:\projetos C#\projetosC\repeticao-while\repeticao-while\bin\Debug\net8.0\repeticao-while.dll
+F:\projetos C#\projetosC\repeticao-while\repeticao-while\bin\Debug\net8.0\repeticao-while.pdb
+F:\projetos C#\projetosC\repeticao-while\repeticao-while\obj\Debug\net8.0\repeticao-while.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos C#\projetosC\repeticao-while\repeticao-while\obj\Debug\net8.0\repeticao-while.AssemblyInfoInputs.cache
+F:\projetos C#\projetosC\repeticao-while\repeticao-while\obj\Debug\net8.0\repeticao-while.AssemblyInfo.cs
+F:\projetos C#\projetosC\repeticao-while\repeticao-while\obj\Debug\net8.0\repeticao-while.csproj.CoreCompileInputs.cache
+F:\projetos C#\projetosC\repeticao-while\repeticao-while\obj\Debug\net8.0\repeticao-while.sourcelink.json
+F:\projetos C#\projetosC\repeticao-while\repeticao-while\obj\Debug\net8.0\repeticao-while.dll
+F:\projetos C#\projetosC\repeticao-while\repeticao-while\obj\Debug\net8.0\refint\repeticao-while.dll
+F:\projetos C#\projetosC\repeticao-while\repeticao-while\obj\Debug\net8.0\repeticao-while.pdb
+F:\projetos C#\projetosC\repeticao-while\repeticao-while\obj\Debug\net8.0\repeticao-while.genruntimeconfig.cache
+F:\projetos C#\projetosC\repeticao-while\repeticao-while\obj\Debug\net8.0\ref\repeticao-while.dll
