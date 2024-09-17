@@ -1,0 +1,15 @@
+F:\projetos C#\projetosC\Problema1-semOO\Problema1-semOO\bin\Debug\net8.0\Problema1-semOO.exe
+F:\projetos C#\projetosC\Problema1-semOO\Problema1-semOO\bin\Debug\net8.0\Problema1-semOO.deps.json
+F:\projetos C#\projetosC\Problema1-semOO\Problema1-semOO\bin\Debug\net8.0\Problema1-semOO.runtimeconfig.json
+F:\projetos C#\projetosC\Problema1-semOO\Problema1-semOO\bin\Debug\net8.0\Problema1-semOO.dll
+F:\projetos C#\projetosC\Problema1-semOO\Problema1-semOO\bin\Debug\net8.0\Problema1-semOO.pdb
+F:\projetos C#\projetosC\Problema1-semOO\Problema1-semOO\obj\Debug\net8.0\Problema1-semOO.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos C#\projetosC\Problema1-semOO\Problema1-semOO\obj\Debug\net8.0\Problema1-semOO.AssemblyInfoInputs.cache
+F:\projetos C#\projetosC\Problema1-semOO\Problema1-semOO\obj\Debug\net8.0\Problema1-semOO.AssemblyInfo.cs
+F:\projetos C#\projetosC\Problema1-semOO\Problema1-semOO\obj\Debug\net8.0\Problema1-semOO.csproj.CoreCompileInputs.cache
+F:\projetos C#\projetosC\Problema1-semOO\Problema1-semOO\obj\Debug\net8.0\Problema1-semOO.sourcelink.json
+F:\projetos C#\projetosC\Problema1-semOO\Problema1-semOO\obj\Debug\net8.0\Problema1-semOO.dll
+F:\projetos C#\projetosC\Problema1-semOO\Problema1-semOO\obj\Debug\net8.0\refint\Problema1-semOO.dll
+F:\projetos C#\projetosC\Problema1-semOO\Problema1-semOO\obj\Debug\net8.0\Problema1-semOO.pdb
+F:\projetos C#\projetosC\Problema1-semOO\Problema1-semOO\obj\Debug\net8.0\Problema1-semOO.genruntimeconfig.cache
+F:\projetos C#\projetosC\Problema1-semOO\Problema1-semOO\obj\Debug\net8.0\ref\Problema1-semOO.dll

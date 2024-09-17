@@ -1,0 +1,15 @@
+F:\projetos C#\projetosC\laco-for\laco-for\bin\Debug\net8.0\laco-for.exe
+F:\projetos C#\projetosC\laco-for\laco-for\bin\Debug\net8.0\laco-for.deps.json
+F:\projetos C#\projetosC\laco-for\laco-for\bin\Debug\net8.0\laco-for.runtimeconfig.json
+F:\projetos C#\projetosC\laco-for\laco-for\bin\Debug\net8.0\laco-for.dll
+F:\projetos C#\projetosC\laco-for\laco-for\bin\Debug\net8.0\laco-for.pdb
+F:\projetos C#\projetosC\laco-for\laco-for\obj\Debug\net8.0\laco-for.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos C#\projetosC\laco-for\laco-for\obj\Debug\net8.0\laco-for.AssemblyInfoInputs.cache
+F:\projetos C#\projetosC\laco-for\laco-for\obj\Debug\net8.0\laco-for.AssemblyInfo.cs
+F:\projetos C#\projetosC\laco-for\laco-for\obj\Debug\net8.0\laco-for.csproj.CoreCompileInputs.cache
+F:\projetos C#\projetosC\laco-for\laco-for\obj\Debug\net8.0\laco-for.sourcelink.json
+F:\projetos C#\projetosC\laco-for\laco-for\obj\Debug\net8.0\laco-for.dll
+F:\projetos C#\projetosC\laco-for\laco-for\obj\Debug\net8.0\refint\laco-for.dll
+F:\projetos C#\projetosC\laco-for\laco-for\obj\Debug\net8.0\laco-for.pdb
+F:\projetos C#\projetosC\laco-for\laco-for\obj\Debug\net8.0\laco-for.genruntimeconfig.cache
+F:\projetos C#\projetosC\laco-for\laco-for\obj\Debug\net8.0\ref\laco-for.dll

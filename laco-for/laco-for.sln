@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laco-for", "laco-for\laco-for.csproj", "{FCEFF252-57B7-44D0-A0BD-9485246638CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCEFF252-57B7-44D0-A0BD-9485246638CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEFF252-57B7-44D0-A0BD-9485246638CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEFF252-57B7-44D0-A0BD-9485246638CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEFF252-57B7-44D0-A0BD-9485246638CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A064EEFD-FEC1-40AB-AD28-EF79C56750E4}
+	EndGlobalSection
+EndGlobal
