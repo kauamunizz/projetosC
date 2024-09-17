@@ -1,0 +1,15 @@
+F:\projetos C#\projetosC\classes\classes\bin\Debug\net8.0\classes.exe
+F:\projetos C#\projetosC\classes\classes\bin\Debug\net8.0\classes.deps.json
+F:\projetos C#\projetosC\classes\classes\bin\Debug\net8.0\classes.runtimeconfig.json
+F:\projetos C#\projetosC\classes\classes\bin\Debug\net8.0\classes.dll
+F:\projetos C#\projetosC\classes\classes\bin\Debug\net8.0\classes.pdb
+F:\projetos C#\projetosC\classes\classes\obj\Debug\net8.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos C#\projetosC\classes\classes\obj\Debug\net8.0\classes.AssemblyInfoInputs.cache
+F:\projetos C#\projetosC\classes\classes\obj\Debug\net8.0\classes.AssemblyInfo.cs
+F:\projetos C#\projetosC\classes\classes\obj\Debug\net8.0\classes.csproj.CoreCompileInputs.cache
+F:\projetos C#\projetosC\classes\classes\obj\Debug\net8.0\classes.sourcelink.json
+F:\projetos C#\projetosC\classes\classes\obj\Debug\net8.0\classes.dll
+F:\projetos C#\projetosC\classes\classes\obj\Debug\net8.0\refint\classes.dll
+F:\projetos C#\projetosC\classes\classes\obj\Debug\net8.0\classes.pdb
+F:\projetos C#\projetosC\classes\classes\obj\Debug\net8.0\classes.genruntimeconfig.cache
+F:\projetos C#\projetosC\classes\classes\obj\Debug\net8.0\ref\classes.dll

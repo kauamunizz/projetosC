@@ -1,0 +1,15 @@
+F:\projetos C#\projetosC\exercicio-class2\exercicio-class2\bin\Debug\net8.0\exercicio-class2.exe
+F:\projetos C#\projetosC\exercicio-class2\exercicio-class2\bin\Debug\net8.0\exercicio-class2.deps.json
+F:\projetos C#\projetosC\exercicio-class2\exercicio-class2\bin\Debug\net8.0\exercicio-class2.runtimeconfig.json
+F:\projetos C#\projetosC\exercicio-class2\exercicio-class2\bin\Debug\net8.0\exercicio-class2.dll
+F:\projetos C#\projetosC\exercicio-class2\exercicio-class2\bin\Debug\net8.0\exercicio-class2.pdb
+F:\projetos C#\projetosC\exercicio-class2\exercicio-class2\obj\Debug\net8.0\exercicio-class2.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos C#\projetosC\exercicio-class2\exercicio-class2\obj\Debug\net8.0\exercicio-class2.AssemblyInfoInputs.cache
+F:\projetos C#\projetosC\exercicio-class2\exercicio-class2\obj\Debug\net8.0\exercicio-class2.AssemblyInfo.cs
+F:\projetos C#\projetosC\exercicio-class2\exercicio-class2\obj\Debug\net8.0\exercicio-class2.csproj.CoreCompileInputs.cache
+F:\projetos C#\projetosC\exercicio-class2\exercicio-class2\obj\Debug\net8.0\exercicio-class2.sourcelink.json
+F:\projetos C#\projetosC\exercicio-class2\exercicio-class2\obj\Debug\net8.0\exercicio-class2.dll
+F:\projetos C#\projetosC\exercicio-class2\exercicio-class2\obj\Debug\net8.0\refint\exercicio-class2.dll
+F:\projetos C#\projetosC\exercicio-class2\exercicio-class2\obj\Debug\net8.0\exercicio-class2.pdb
+F:\projetos C#\projetosC\exercicio-class2\exercicio-class2\obj\Debug\net8.0\exercicio-class2.genruntimeconfig.cache
+F:\projetos C#\projetosC\exercicio-class2\exercicio-class2\obj\Debug\net8.0\ref\exercicio-class2.dll
