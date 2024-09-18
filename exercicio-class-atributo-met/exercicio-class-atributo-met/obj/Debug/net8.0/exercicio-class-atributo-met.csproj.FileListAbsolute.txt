@@ -1,0 +1,15 @@
+F:\projetos C#\projetosC\exercicio-class-atributo-met\exercicio-class-atributo-met\bin\Debug\net8.0\exercicio-class-atributo-met.exe
+F:\projetos C#\projetosC\exercicio-class-atributo-met\exercicio-class-atributo-met\bin\Debug\net8.0\exercicio-class-atributo-met.deps.json
+F:\projetos C#\projetosC\exercicio-class-atributo-met\exercicio-class-atributo-met\bin\Debug\net8.0\exercicio-class-atributo-met.runtimeconfig.json
+F:\projetos C#\projetosC\exercicio-class-atributo-met\exercicio-class-atributo-met\bin\Debug\net8.0\exercicio-class-atributo-met.dll
+F:\projetos C#\projetosC\exercicio-class-atributo-met\exercicio-class-atributo-met\bin\Debug\net8.0\exercicio-class-atributo-met.pdb
+F:\projetos C#\projetosC\exercicio-class-atributo-met\exercicio-class-atributo-met\obj\Debug\net8.0\exercicio-class-atributo-met.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos C#\projetosC\exercicio-class-atributo-met\exercicio-class-atributo-met\obj\Debug\net8.0\exercicio-class-atributo-met.AssemblyInfoInputs.cache
+F:\projetos C#\projetosC\exercicio-class-atributo-met\exercicio-class-atributo-met\obj\Debug\net8.0\exercicio-class-atributo-met.AssemblyInfo.cs
+F:\projetos C#\projetosC\exercicio-class-atributo-met\exercicio-class-atributo-met\obj\Debug\net8.0\exercicio-class-atributo-met.csproj.CoreCompileInputs.cache
+F:\projetos C#\projetosC\exercicio-class-atributo-met\exercicio-class-atributo-met\obj\Debug\net8.0\exercicio-class-atributo-met.sourcelink.json
+F:\projetos C#\projetosC\exercicio-class-atributo-met\exercicio-class-atributo-met\obj\Debug\net8.0\exercicio-class-atributo-met.dll
+F:\projetos C#\projetosC\exercicio-class-atributo-met\exercicio-class-atributo-met\obj\Debug\net8.0\refint\exercicio-class-atributo-met.dll
+F:\projetos C#\projetosC\exercicio-class-atributo-met\exercicio-class-atributo-met\obj\Debug\net8.0\exercicio-class-atributo-met.pdb
+F:\projetos C#\projetosC\exercicio-class-atributo-met\exercicio-class-atributo-met\obj\Debug\net8.0\exercicio-class-atributo-met.genruntimeconfig.cache
+F:\projetos C#\projetosC\exercicio-class-atributo-met\exercicio-class-atributo-met\obj\Debug\net8.0\ref\exercicio-class-atributo-met.dll

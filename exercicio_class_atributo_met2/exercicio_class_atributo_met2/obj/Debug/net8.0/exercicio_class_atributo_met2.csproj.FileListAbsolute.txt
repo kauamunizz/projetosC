@@ -1,0 +1,15 @@
+F:\projetos C#\projetosC\exercicio_class_atributo_met2\exercicio_class_atributo_met2\bin\Debug\net8.0\exercicio_class_atributo_met2.exe
+F:\projetos C#\projetosC\exercicio_class_atributo_met2\exercicio_class_atributo_met2\bin\Debug\net8.0\exercicio_class_atributo_met2.deps.json
+F:\projetos C#\projetosC\exercicio_class_atributo_met2\exercicio_class_atributo_met2\bin\Debug\net8.0\exercicio_class_atributo_met2.runtimeconfig.json
+F:\projetos C#\projetosC\exercicio_class_atributo_met2\exercicio_class_atributo_met2\bin\Debug\net8.0\exercicio_class_atributo_met2.dll
+F:\projetos C#\projetosC\exercicio_class_atributo_met2\exercicio_class_atributo_met2\bin\Debug\net8.0\exercicio_class_atributo_met2.pdb
+F:\projetos C#\projetosC\exercicio_class_atributo_met2\exercicio_class_atributo_met2\obj\Debug\net8.0\exercicio_class_atributo_met2.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos C#\projetosC\exercicio_class_atributo_met2\exercicio_class_atributo_met2\obj\Debug\net8.0\exercicio_class_atributo_met2.AssemblyInfoInputs.cache
+F:\projetos C#\projetosC\exercicio_class_atributo_met2\exercicio_class_atributo_met2\obj\Debug\net8.0\exercicio_class_atributo_met2.AssemblyInfo.cs
+F:\projetos C#\projetosC\exercicio_class_atributo_met2\exercicio_class_atributo_met2\obj\Debug\net8.0\exercicio_class_atributo_met2.csproj.CoreCompileInputs.cache
+F:\projetos C#\projetosC\exercicio_class_atributo_met2\exercicio_class_atributo_met2\obj\Debug\net8.0\exercicio_class_atributo_met2.sourcelink.json
+F:\projetos C#\projetosC\exercicio_class_atributo_met2\exercicio_class_atributo_met2\obj\Debug\net8.0\exercicio_class_atributo_met2.dll
+F:\projetos C#\projetosC\exercicio_class_atributo_met2\exercicio_class_atributo_met2\obj\Debug\net8.0\refint\exercicio_class_atributo_met2.dll
+F:\projetos C#\projetosC\exercicio_class_atributo_met2\exercicio_class_atributo_met2\obj\Debug\net8.0\exercicio_class_atributo_met2.pdb
+F:\projetos C#\projetosC\exercicio_class_atributo_met2\exercicio_class_atributo_met2\obj\Debug\net8.0\exercicio_class_atributo_met2.genruntimeconfig.cache
+F:\projetos C#\projetosC\exercicio_class_atributo_met2\exercicio_class_atributo_met2\obj\Debug\net8.0\ref\exercicio_class_atributo_met2.dll
