@@ -1,0 +1,15 @@
+F:\projetos C#\projetosC\metodo-reaproveitamento-delegação\metodo-reaproveitamento-delegação\bin\Debug\net8.0\metodo-reaproveitamento-delegação.exe
+F:\projetos C#\projetosC\metodo-reaproveitamento-delegação\metodo-reaproveitamento-delegação\bin\Debug\net8.0\metodo-reaproveitamento-delegação.deps.json
+F:\projetos C#\projetosC\metodo-reaproveitamento-delegação\metodo-reaproveitamento-delegação\bin\Debug\net8.0\metodo-reaproveitamento-delegação.runtimeconfig.json
+F:\projetos C#\projetosC\metodo-reaproveitamento-delegação\metodo-reaproveitamento-delegação\bin\Debug\net8.0\metodo-reaproveitamento-delegação.dll
+F:\projetos C#\projetosC\metodo-reaproveitamento-delegação\metodo-reaproveitamento-delegação\bin\Debug\net8.0\metodo-reaproveitamento-delegação.pdb
+F:\projetos C#\projetosC\metodo-reaproveitamento-delegação\metodo-reaproveitamento-delegação\obj\Debug\net8.0\metodo-reaproveitamento-delegação.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos C#\projetosC\metodo-reaproveitamento-delegação\metodo-reaproveitamento-delegação\obj\Debug\net8.0\metodo-reaproveitamento-delegação.AssemblyInfoInputs.cache
+F:\projetos C#\projetosC\metodo-reaproveitamento-delegação\metodo-reaproveitamento-delegação\obj\Debug\net8.0\metodo-reaproveitamento-delegação.AssemblyInfo.cs
+F:\projetos C#\projetosC\metodo-reaproveitamento-delegação\metodo-reaproveitamento-delegação\obj\Debug\net8.0\metodo-reaproveitamento-delegação.csproj.CoreCompileInputs.cache
+F:\projetos C#\projetosC\metodo-reaproveitamento-delegação\metodo-reaproveitamento-delegação\obj\Debug\net8.0\metodo-reaproveitamento-delegação.sourcelink.json
+F:\projetos C#\projetosC\metodo-reaproveitamento-delegação\metodo-reaproveitamento-delegação\obj\Debug\net8.0\metodo-reaproveitamento-delegação.dll
+F:\projetos C#\projetosC\metodo-reaproveitamento-delegação\metodo-reaproveitamento-delegação\obj\Debug\net8.0\refint\metodo-reaproveitamento-delegação.dll
+F:\projetos C#\projetosC\metodo-reaproveitamento-delegação\metodo-reaproveitamento-delegação\obj\Debug\net8.0\metodo-reaproveitamento-delegação.pdb
+F:\projetos C#\projetosC\metodo-reaproveitamento-delegação\metodo-reaproveitamento-delegação\obj\Debug\net8.0\metodo-reaproveitamento-delegação.genruntimeconfig.cache
+F:\projetos C#\projetosC\metodo-reaproveitamento-delegação\metodo-reaproveitamento-delegação\obj\Debug\net8.0\ref\metodo-reaproveitamento-delegação.dll
