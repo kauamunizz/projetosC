@@ -1,0 +1,15 @@
+F:\projetos C#\projetosC\exercicio_fixacacao\exercicio_fixacacao\bin\Debug\net8.0\exercicio_fixacacao.exe
+F:\projetos C#\projetosC\exercicio_fixacacao\exercicio_fixacacao\bin\Debug\net8.0\exercicio_fixacacao.deps.json
+F:\projetos C#\projetosC\exercicio_fixacacao\exercicio_fixacacao\bin\Debug\net8.0\exercicio_fixacacao.runtimeconfig.json
+F:\projetos C#\projetosC\exercicio_fixacacao\exercicio_fixacacao\bin\Debug\net8.0\exercicio_fixacacao.dll
+F:\projetos C#\projetosC\exercicio_fixacacao\exercicio_fixacacao\bin\Debug\net8.0\exercicio_fixacacao.pdb
+F:\projetos C#\projetosC\exercicio_fixacacao\exercicio_fixacacao\obj\Debug\net8.0\exercicio_fixacacao.GeneratedMSBuildEditorConfig.editorconfig
+F:\projetos C#\projetosC\exercicio_fixacacao\exercicio_fixacacao\obj\Debug\net8.0\exercicio_fixacacao.AssemblyInfoInputs.cache
+F:\projetos C#\projetosC\exercicio_fixacacao\exercicio_fixacacao\obj\Debug\net8.0\exercicio_fixacacao.AssemblyInfo.cs
+F:\projetos C#\projetosC\exercicio_fixacacao\exercicio_fixacacao\obj\Debug\net8.0\exercicio_fixacacao.csproj.CoreCompileInputs.cache
+F:\projetos C#\projetosC\exercicio_fixacacao\exercicio_fixacacao\obj\Debug\net8.0\exercicio_fixacacao.sourcelink.json
+F:\projetos C#\projetosC\exercicio_fixacacao\exercicio_fixacacao\obj\Debug\net8.0\exercicio_fixacacao.dll
+F:\projetos C#\projetosC\exercicio_fixacacao\exercicio_fixacacao\obj\Debug\net8.0\refint\exercicio_fixacacao.dll
+F:\projetos C#\projetosC\exercicio_fixacacao\exercicio_fixacacao\obj\Debug\net8.0\exercicio_fixacacao.pdb
+F:\projetos C#\projetosC\exercicio_fixacacao\exercicio_fixacacao\obj\Debug\net8.0\exercicio_fixacacao.genruntimeconfig.cache
+F:\projetos C#\projetosC\exercicio_fixacacao\exercicio_fixacacao\obj\Debug\net8.0\ref\exercicio_fixacacao.dll
